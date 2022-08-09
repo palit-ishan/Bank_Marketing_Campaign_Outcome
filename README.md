@@ -7,8 +7,8 @@ and we will be using various Machine Learning Techniques and Algorithms to perfo
 
 
 ## Data Description - 
-# Number of instances: 45211
-# Number of Attributes: 17
-# Data set characteristics: Multivariate
-# Attribute Characteristics: Real
+* Number of instances: 45211
+* Number of Attributes: 17
+* Data set characteristics: Multivariate
+* Attribute Characteristics: Real
 
