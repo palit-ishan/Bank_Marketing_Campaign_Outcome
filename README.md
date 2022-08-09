@@ -12,3 +12,10 @@ and we will be using various Machine Learning Techniques and Algorithms to perfo
 * Data set characteristics: Multivariate
 * Attribute Characteristics: Real
 
+## Models used 
+* Logistic Regression
+* Naive Bayes
+* Support Vector Machines
+* Neural Networks
+
+### All models have been coded from scratch without using any pre-defined machine learning libraries
