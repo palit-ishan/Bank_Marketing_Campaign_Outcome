@@ -6,7 +6,7 @@ in order to access if the product (bank term deposit) would be ('yes') or not ('
 and we will be using various Machine Learning Techniques and Algorithms to perform this binary classification.
 
 
-## Data Description - 
+## Data Description 
 * Number of instances: 45211
 * Number of Attributes: 17
 * Data set characteristics: Multivariate
